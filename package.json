@@ -1,0 +1,14 @@
+{
+  "name": "cypress_api_testing",
+  "version": "1.0.0",
+  "description": "RestAPI Testing using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chandrasekhar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.15.2"
+  }
+}
